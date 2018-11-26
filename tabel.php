@@ -57,7 +57,23 @@ $data = $query->fetchAll();
         Tabel Data
       </div>
       <div class="card-body">
-        <div class="col-md-8">
+        <div class="col-md-12">
+
+          <?php
+          // koding alert aksi
+          $result = $_GET['result'] ?? '';
+          if($result == 'berhasil'){ ?>
+          <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>Berhasil</strong> Aksi Berhasil dilakukan
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+        <?php }
+          //end alert aksi
+        ?>
+
+          <a href="index.php" class="btn btn-primary mb-3">Tambah User</a>
           <table class="table">
             <thead class="thead-dark">
               <tr>
@@ -65,18 +81,23 @@ $data = $query->fetchAll();
                 <th scope="col">Nama</th>
                 <th scope="col">Email</th>
                 <th scope="col">Password</th>
+                <th scope="col" width="150">Action</th>
               </tr>
             </thead>
             <tbody>
               <?php
               $no = 1;
               foreach($data as $q){ ?>
-              <tr>
-                <th scope="row"><?php echo $no++ ?></th>
-                <td><?php echo $q->name ?></td>
-                <td><?php echo $q->email ?></td>
-                <td><?php echo $q->password ?></td>
-              </tr>
+                <tr>
+                  <th scope="row"><?php echo $no++ ?></th>
+                  <td><?php echo $q->name ?></td>
+                  <td><?php echo $q->email ?></td>
+                  <td><?php echo $q->password ?></td>
+                  <td>
+                    <a href="edit.php?id=<?php echo $q->id_user ?>" class="btn btn-sm btn-success">Edit</a>
+                    <a onclick="return confirm('Yakin Menghapus ? ')" href="prosesUser.php?action=hapus&id=<?php echo $q->id_user ?>" class="btn btn-sm btn-danger">Hapus</a>
+                  </td>
+                </tr>
               <?php } ?>
             </tbody>
           </table>
@@ -90,6 +111,6 @@ $data = $query->fetchAll();
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
 <script src="js/jquery-3.3.1.slim.min.js"></script>
-<script src="js/js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 </body>
 </html>

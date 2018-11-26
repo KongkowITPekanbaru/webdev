@@ -62,7 +62,7 @@
               <input type="password" class="form-control" id="address" name="password" placeholder="" required="">
             </div>
           </div>
-          <button class="btn btn-primary btn-lg btn-block" type="submit">Daftar</button>
+          <button class="btn btn-primary btn-lg btn-block col-md-3" type="submit">Daftar</button>
         </form>
       </div>
     </div>
