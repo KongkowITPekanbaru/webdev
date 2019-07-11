@@ -66,6 +66,11 @@ Kongkow IT Pekanbaru sangat berterimakasih kepada anda yang ingin sharing bersam
 ### saya memiliki ide / kritik terkait kegiatan ini
 silahkan anda isi saja ide atau keluhan anda di `github issues` atau chat di grup Telegram [t.me/kongkowitpekanbaru](t.me/kongkowitpekanbaru). kita insyaAllah open minded, jangan sungkan jika ada hal yang dirasa perlu disampaikan
 
+### punya pertanyaan?
+masih bingung dengan apa yang telah dijelaskan? jangan sungkan untuk bertanya. silahkan bertanya di grup telegram [t.me/kongkowitpekanbaru](t.me/kongkowitpekanbaru), tidak tau apa itu telegram? baca [ini](https://www.google.co.id/search?q=apa+itu+telegram&oq=apa+itu+telegram+&aqs=chrome..69i57j0l5.2235j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8) dulu
+
+**_Malu bertanya, Anda tidak akan sampai ke tujuan_**
+
 ### beberapa orang yang akan jadi pemateri di Kongkow IT Pekanbaru
 1. Jufianto Henri | [Linkedin](https://linkedin.com/in/jufianto/) | [Instagram](https://www.instagram.com/jufiantohenri/)
 2. Wahyu Nuzul Wahri | [Linkedin]() | [Instagram]() 
