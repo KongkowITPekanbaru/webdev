@@ -6,7 +6,7 @@ diperuntukan bagi anggota kongkow IT yang memiliki **semangat belajar** yang tin
 
 ### saya masih baru dalam hal programming, apakah saya bisa mengikutinya? 
 silahkan baca dahulu artikel terkait [Pelatihan Sebelumnya](https://medium.com/kongkowitpekanbaru/kongkow-it-pekanbaru-menggelar-pelatihan-web-developer-b32841842e8e) 
-pada intinya nanti team pemateri dari webdev akan meminta sertifikat online **(GRATIS)** yang diadakan di [sololearn.com](https://www.sololearn.com/), kenapa kami meminta sertifikat ini? karna kami ingin melihat betapa seriusnya anda dalam belajar
+pada intinya nanti team pemateri dari webdev akan meminta sertifikat online **(GRATIS)** yang diadakan di [sololearn.com](https://www.sololearn.com/), kenapa kami meminta sertifikat ini? karna kami ingin melihat betapa seriusnya anda dalam belajar    
 beberapa sertifikat yang kami minta 
 * Javascript Tutorial
 * PHP Tutorial 
@@ -47,7 +47,7 @@ dan jika online, silahkan beli saja paket internet anda sebanyak mungkin untuk m
 insyaAllah akan diadakan pada 18 Agustus, yang target kegiatan setiap minggu akan dilakukan pertemuan secara offline
 
 ### bagaimana caranya saya mendaftar? 
-silahkan mendaftar dengan mengisi `github issues` [disini](), silahkan komentasi `github issues` yang telah dibuat dengan spesifikasi 
+silahkan mendaftar dengan mengisi `github issues` [disini](https://github.com/KongkowITPekanbaru/webdev/issues/1), silahkan komentari `github issues` yang telah dibuat dengan spesifikasi 
 * Nama : ...
 * ID Telegram : .... _(bisa juga menggunakan link seperti t.me/jufiantohenri)_
 * email aktif : ... 
@@ -61,7 +61,7 @@ dan setelah mendaftar silahkan bergabung ke akun `slack` milik Kongkow IT Pekanb
 karena kegiatan ini bersifat gratis, maka tentu kami menginginkan sebuah `feedback` dari anda. menurut anda apa yang bisa anda berikan untuk kegiatan Kongkow IT? karena menurut kami akan lebih baik kalau dalam komunitas kita saling membantu bersama maka akan terasa manfaatnya bersama. silahkan anda isi `feedback` yang bisa anda berikan untuk Kongkow IT Pekanbaru pada saat pendaftaran. 
 
 ### saya tau sedikit tentang pengembangan web aplikasi, bisakah saya ikut membantu jadi pemateri? 
-Kongkow IT Pekanbaru sangat berterimakasih kepada anda yang ingin sharing bersama, silahkan anda isi saja `github issues` 
+Kongkow IT Pekanbaru sangat berterimakasih kepada anda yang ingin sharing bersama, silahkan anda isi saja `[github issues](https://github.com/KongkowITPekanbaru/webdev/issues/new)` 
 
 ### saya memiliki ide / kritik terkait kegiatan ini
 silahkan anda isi saja ide atau keluhan anda di `github issues` atau chat di grup Telegram [t.me/kongkowitpekanbaru](t.me/kongkowitpekanbaru). kita insyaAllah open minded, jangan sungkan jika ada hal yang dirasa perlu disampaikan
