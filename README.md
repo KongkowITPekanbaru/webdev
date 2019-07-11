@@ -61,7 +61,7 @@ dan setelah mendaftar silahkan bergabung ke akun `slack` milik Kongkow IT Pekanb
 karena kegiatan ini bersifat gratis, maka tentu kami menginginkan sebuah `feedback` dari anda. menurut anda apa yang bisa anda berikan untuk kegiatan Kongkow IT? karena menurut kami akan lebih baik kalau dalam komunitas kita saling membantu bersama maka akan terasa manfaatnya bersama. silahkan anda isi `feedback` yang bisa anda berikan untuk Kongkow IT Pekanbaru pada saat pendaftaran. 
 
 ### saya tau sedikit tentang pengembangan web aplikasi, bisakah saya ikut membantu jadi pemateri? 
-Kongkow IT Pekanbaru sangat berterimakasih kepada anda yang ingin sharing bersama, silahkan anda isi saja `[github issues]`(https://github.com/KongkowITPekanbaru/webdev/issues/new) 
+Kongkow IT Pekanbaru sangat berterimakasih kepada anda yang ingin sharing bersama, silahkan anda isi saja [`[github issues]`](https://github.com/KongkowITPekanbaru/webdev/issues/new) 
 
 ### saya memiliki ide / kritik terkait kegiatan ini
 silahkan anda isi saja ide atau keluhan anda di `github issues` atau chat di grup Telegram [t.me/kongkowitpekanbaru](t.me/kongkowitpekanbaru). kita insyaAllah open minded, jangan sungkan jika ada hal yang dirasa perlu disampaikan
