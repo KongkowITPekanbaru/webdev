@@ -64,10 +64,10 @@ karena kegiatan ini bersifat gratis, maka tentu kami menginginkan sebuah `feedba
 Kongkow IT Pekanbaru sangat berterimakasih kepada anda yang ingin sharing bersama, silahkan anda isi saja [`[github issues]`](https://github.com/KongkowITPekanbaru/webdev/issues/new) 
 
 ### saya memiliki ide / kritik terkait kegiatan ini
-silahkan anda isi saja ide atau keluhan anda di `github issues` atau chat di grup Telegram [https://t.me/kongkowitpekanbaru](t.me/kongkowitpekanbaru). kita insyaAllah open minded, jangan sungkan jika ada hal yang dirasa perlu disampaikan
+silahkan anda isi saja ide atau keluhan anda di `github issues` atau chat di grup Telegram [t.me/kongkowitpekanbaru](https://t.me/kongkowitpekanbaru). kita insyaAllah open minded, jangan sungkan jika ada hal yang dirasa perlu disampaikan
 
 ### punya pertanyaan?
-masih bingung dengan apa yang telah dijelaskan? jangan sungkan untuk bertanya. silahkan bertanya di grup telegram [https://t.me/kongkowitpekanbaru](t.me/kongkowitpekanbaru), tidak tau apa itu telegram? baca [ini](https://www.google.co.id/search?q=apa+itu+telegram&oq=apa+itu+telegram+&aqs=chrome..69i57j0l5.2235j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8) dulu
+masih bingung dengan apa yang telah dijelaskan? jangan sungkan untuk bertanya. silahkan bertanya di grup telegram [t.me/kongkowitpekanbaru](https://t.me/kongkowitpekanbaru), tidak tau apa itu telegram? baca [ini](https://www.google.co.id/search?q=apa+itu+telegram&oq=apa+itu+telegram+&aqs=chrome..69i57j0l5.2235j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8) dulu
 
 **_Malu bertanya, Anda tidak akan sampai ke tujuan_**
 
