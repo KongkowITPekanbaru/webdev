@@ -40,7 +40,7 @@ nanti pada akhir dari training ini akan terdapat 2 tugas, yang pertama membuat w
 
 ### apakah akan dikenakan biaya dalam training ini? 
 nanti trainingnya akan diadakan dalam 2 tipe yaitu offline dan online.   
-apabila trainingnya kita adakan pada saat offline (kopi darat lansung) silahkan anda membayar masing - masing minuman yang anda pesan sendiri + anda akan dikenakan **_biaya 5 sampai dengan 10 ribu_** untuk membantu membayar minuman untuk pemateri yang hadir dan memesan cemilan untuk kita bersama. 
+apabila trainingnya kita adakan pada saat offline (kopi darat lansung) silahkan anda **membayar masing - masing minuman yang anda pesan sendiri** + anda akan dikenakan **_biaya 5 sampai dengan 10 ribu_** untuk membantu membayar minuman untuk pemateri yang hadir dan memesan cemilan untuk kita bersama. 
 dan jika online, silahkan beli saja paket internet anda sebanyak mungkin untuk melakukan videocall (webminar)
 
 ### saya sangat tertarik dengan kegiatan ini, kapan diadakan?
